@@ -4,7 +4,7 @@ This is my home page! My name is JungHoonYeon and I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub page is [My Git Hub](https://github.com/YeonJungHoon/YeonJungHoon.github.io)
+My GitHub page is [My Git Hub](http://github.com/YeonJungHoon)
 
 ### CPSC 120
 
