@@ -18,5 +18,5 @@ In Lab 7, the part 1 was easier for me because I already finished it in another 
 ---
 ## Lab 8
 
-In Lab 8, like lab 7, part 1 was easy because it was previous one. And part-2 was not a hard part. But there were some new functions or expressions for me. The part 2 was simple average computing question. When user input the numbers, computer calculates the average of the numbers. I could know `vector.empty` function and a different way to express `argument{argv, argv + argc}`. It was good experience to know various different approaches.
+In Lab 8, like lab 7, part 1 was easy because it was previous one. And part-2 was not a hard part. But there were some new functions or expressions for me. The part 2 was simple average computing question. When user input the numbers, computer calculates the average of the numbers. I could know `vector.empty()` function and a different way to express `argument{argv, argv + argc}`. It was good experience to know various different approaches.
 ---
